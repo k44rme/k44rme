@@ -7,4 +7,6 @@ Typical
 
 [🎮 Steam](https://steamcommunity.com/id/k44rme/)
 
-[🦋 BlueSky](https://bskye.com/k44rme/)
+[🦋 BlueSky](https://bsky.app/profile/k44rme.bsky.social)
+
+Will be update soon...
