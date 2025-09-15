@@ -5,4 +5,6 @@ Typical
  
 ## Links
 
-[🎮 Steam](https://steampowered.com/kamomiruku)
+[🎮 Steam](https://steamcommunity.com/id/k44rme/)
+
+[🦋 BlueSky](https://bskye.com/k44rme/)
