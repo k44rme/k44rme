@@ -5,9 +5,17 @@ Typical
  
 ## Links
 
+<style>
+ .markdown-body img {
+  --size: 15px;
+  width: var(--size);
+  height: var(--size);
+ }
+</style>
+
 ### Socials
-<a href="https://steamcommunity.com/id/k44rme/">
- <img src="">
+<a href="https://steamcommunity.com/id/k44rme/" class="steam icon">
+ <img src="icons/steam.png">
  Steam
 </a>
 
