@@ -1,12 +1,31 @@
-## About Me
+# About Me
 
 Typical
  Programmer In The Internet...
  
 ## Links
 
-[🎮 Steam](https://steamcommunity.com/id/k44rme/)
+### Socials
+<a href="https://steamcommunity.com/id/k44rme/">
+ <img src="">
+ Steam
+</a>
 
-[🦋 BlueSky](https://bsky.app/profile/k44rme.bsky.social)
+<a href="https://bsky.app/profile/k44rme.bsky.social">
+ <img src="">
+ Bluesky
+</a>
 
-Will be update soon...
+TikTok should be here
+
+### Music
+
+SoundCloud
+
+Spotify
+
+YouTube
+
+### Best Projects
+
+Nothing here... :(
