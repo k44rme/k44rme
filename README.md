@@ -14,7 +14,7 @@ Typical
  <img src="icons/BlueSky Link.svg">
 </a>
 
-<a href="https://tiktok.com/k44rme">
+<a href="https://tiktok.com/@k44rme">
  <img src="icons/TikTok Link.svg">
 </a>
 
