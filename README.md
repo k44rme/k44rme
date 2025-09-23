@@ -14,7 +14,9 @@ Typical
  <img src="icons/BlueSky Link.svg">
 </a>
 
-TikTok should be here
+<a href="https://tiktok.com/k44rme">
+ <img src="icons/TikTok Link.svg">
+</a>
 
 ## Music
 
