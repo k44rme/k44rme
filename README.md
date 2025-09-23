@@ -7,8 +7,7 @@ Typical
 
 ### Socials
 <a href="https://steamcommunity.com/id/k44rme/" class="steam icon">
- <img src="icons/Steam.svg">
- Steam
+ <img src="icons/Steam Link.svg">
 </a>
 
 <a href="https://bsky.app/profile/k44rme.bsky.social">
