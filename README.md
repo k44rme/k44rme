@@ -11,8 +11,7 @@ Typical
 </a>
 
 <a href="https://bsky.app/profile/k44rme.bsky.social">
- <img src="">
- Bluesky
+ <img src="icons/BlueSky Link.svg">
 </a>
 
 TikTok should be here
