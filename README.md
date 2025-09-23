@@ -3,9 +3,9 @@
 Typical
  Programmer In The Internet...
  
-## Links
+# Links
 
-### Socials
+## Socials
 <a href="https://steamcommunity.com/id/k44rme/" class="steam icon">
  <img src="icons/Steam Link.svg">
 </a>
@@ -16,7 +16,7 @@ Typical
 
 TikTok should be here
 
-### Music
+## Music
 
 SoundCloud
 
@@ -24,6 +24,6 @@ Spotify
 
 YouTube
 
-### Best Projects
+## Best Projects
 
 Nothing here... :(
