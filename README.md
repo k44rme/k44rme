@@ -6,7 +6,7 @@ Typical
 # Links
 
 ## Socials
-<a href="https://steamcommunity.com/id/k44rme/" class="steam icon">
+<a href="https://steamcommunity.com/id/k44rme/">
  <img src="icons/Steam Link.svg">
 </a>
 
